@@ -18,10 +18,29 @@ Bu projede php ve jquery kullanarak yönetici olarak giriş yapan kişinin kulla
 
 
 ## Proje tanıtım videosu
+[![Videoyu İzle]()](https://youtu.be/SWDk1CZAW58)
 
 
 ## Ekran Görüntüleri
 
-![App Screenshot](blogprojeresimler
-/chrome_1I9wIf3SUA.png)
+![Screenshot](https://github.com/ahmetkar/Php-Form-Generator/blob/main/img/chrome_2n5o5RtwLU.png)
 
+![Screenshot](https://github.com/ahmetkar/Php-Form-Generator/blob/main/img/chrome_4NjejdIS3v.png)
+
+![Screenshot](https://github.com/ahmetkar/Php-Form-Generator/blob/main/img/chrome_DMqkdIZUGk.png)
+
+![Screenshot](https://github.com/ahmetkar/Php-Form-Generator/blob/main/img/chrome_RYm2RmFBuM.png)
+
+![Screenshot](https://github.com/ahmetkar/Php-Form-Generator/blob/main/img/chrome_T3MYKprJNy.png)
+
+![Screenshot](https://github.com/ahmetkar/Php-Form-Generator/blob/main/img/chrome_VIrXhhrkW5.png)
+
+![Screenshot](https://github.com/ahmetkar/Php-Form-Generator/blob/main/img/chrome_Z1PAt0yYNw.png)
+
+![Screenshot](https://github.com/ahmetkar/Php-Form-Generator/blob/main/img/chrome_iFDjKZ3eSr.png)
+
+![Screenshot](https://github.com/ahmetkar/Php-Form-Generator/blob/main/img/chrome_mkfoC33rlw.png)
+
+![Screenshot](https://github.com/ahmetkar/Php-Form-Generator/blob/main/img/chrome_wQ4kc5RRch.png)
+
+![Screenshot](https://github.com/ahmetkar/Php-Form-Generator/blob/main/img/chrome_yLZ6Uu4bZo.png)
