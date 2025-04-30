@@ -1,0 +1,22 @@
+  
+        table th[scope=col] {
+            background-color: #d1084b;
+            color: #fff;
+            font-weight: 600;
+            }
+           table th[scope=row] {
+            background-color: #4a061d;
+            color: #fff;
+            font-weight: 600;
+            }
+            td
+               {
+               max-width: 80px;
+               overflow: hidden;
+               text-overflow: ellipsis;
+               white-space: nowrap;
+               }
+            a {
+                text-decoration: none;
+                color:gray;
+            }
