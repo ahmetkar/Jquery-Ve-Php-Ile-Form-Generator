@@ -7,6 +7,9 @@ Bu projede php ve jquery kullanarak yönetici olarak giriş yapan kişinin kulla
 - Kullanıcının bu formlardan doldurup yöneticiye gönderebilmesi
 - Formlarda html de kullanılan çoğu form alanının bulunması(Textbox,Select,Radio,Checkbox,Resim yükleme,Tablo,Date,Datetime,Textarea)
 
+# Hatalar
+
+-Yazı girdisi alan tablo alanında ve satırı olmayan tabloda hatalar vardır. Bunlar çözülecektir.
 
 ## Kullanılan Teknolojiler
 
