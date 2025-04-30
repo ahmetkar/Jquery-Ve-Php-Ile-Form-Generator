@@ -1,5 +1,5 @@
 
-# PHP İLE FORM GENERATOR
+# JQUERY VE PHP İLE FORM GENERATOR
 
 Bu projede php ve jquery kullanarak yönetici olarak giriş yapan kişinin kullanıcı için formlar generate etmesi ve veritabanına bilgilerini eklemesi bu bilgilere dayanarak kullanıcı ekranınında formun html halinin kullanıcı için oluşturulup yöneticiye formun bir örneğinin gönderilmesi sağlanmıştır.
 
@@ -26,24 +26,38 @@ Bu projede php ve jquery kullanarak yönetici olarak giriş yapan kişinin kulla
 
 ## Ekran Görüntüleri
 
-![Screenshot](https://github.com/ahmetkar/Php-Form-Generator/blob/main/img/chrome_2n5o5RtwLU.png)
+## Form Listeleme Ekran Görüntüleri
+
+![Screenshot](https://github.com/ahmetkar/Php-Form-Generator/blob/main/img/chrome_T3MYKprJNy.png)
+
+![Screenshot](https://github.com/ahmetkar/Php-Form-Generator/blob/main/img/chrome_iFDjKZ3eSr.png)
+
+## Bildirimler Ekran Görüntüleri
+
+![Screenshot](https://github.com/ahmetkar/Php-Form-Generator/blob/main/img/chrome_wQ4kc5RRch.png)
+
+![Screenshot](https://github.com/ahmetkar/Php-Form-Generator/blob/main/img/chrome_yLZ6Uu4bZo.png)
+
+
+## Öğrenci Form Gönderme Ekran Görüntüleri
 
 ![Screenshot](https://github.com/ahmetkar/Php-Form-Generator/blob/main/img/chrome_4NjejdIS3v.png)
+
+![Screenshot](https://github.com/ahmetkar/Php-Form-Generator/blob/main/img/chrome_mkfoC33rlw.png)
+
+![Screenshot](https://github.com/ahmetkar/Php-Form-Generator/blob/main/img/chrome_Z1PAt0yYNw.png)
+
 
 ![Screenshot](https://github.com/ahmetkar/Php-Form-Generator/blob/main/img/chrome_DMqkdIZUGk.png)
 
 ![Screenshot](https://github.com/ahmetkar/Php-Form-Generator/blob/main/img/chrome_RYm2RmFBuM.png)
 
-![Screenshot](https://github.com/ahmetkar/Php-Form-Generator/blob/main/img/chrome_T3MYKprJNy.png)
+## Yönetici Gelen Form Ekran Görüntüleri
 
 ![Screenshot](https://github.com/ahmetkar/Php-Form-Generator/blob/main/img/chrome_VIrXhhrkW5.png)
+![Screenshot](https://github.com/ahmetkar/Php-Form-Generator/blob/main/img/chrome_2n5o5RtwLU.png)
 
-![Screenshot](https://github.com/ahmetkar/Php-Form-Generator/blob/main/img/chrome_Z1PAt0yYNw.png)
 
-![Screenshot](https://github.com/ahmetkar/Php-Form-Generator/blob/main/img/chrome_iFDjKZ3eSr.png)
 
-![Screenshot](https://github.com/ahmetkar/Php-Form-Generator/blob/main/img/chrome_mkfoC33rlw.png)
 
-![Screenshot](https://github.com/ahmetkar/Php-Form-Generator/blob/main/img/chrome_wQ4kc5RRch.png)
 
-![Screenshot](https://github.com/ahmetkar/Php-Form-Generator/blob/main/img/chrome_yLZ6Uu4bZo.png)
