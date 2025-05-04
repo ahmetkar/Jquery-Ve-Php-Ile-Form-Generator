@@ -26,6 +26,11 @@ Bu projede php ve jquery kullanarak yönetici olarak giriş yapan kişinin kulla
 
 ## Ekran Görüntüleri
 
+## Form Generate Etme Ekran Görüntüleri
+
+![Screenshot](https://github.com/ahmetkar/Jquery-Ve-Php-Ile-Form-Generator/blob/main/chrome_KmmP2QGBTy.png)
+
+
 ## Form Listeleme Ekran Görüntüleri
 
 ![Screenshot](https://github.com/ahmetkar/Php-Form-Generator/blob/main/img/chrome_T3MYKprJNy.png)
