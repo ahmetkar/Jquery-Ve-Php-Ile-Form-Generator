@@ -31,19 +31,6 @@ Bu projede php ve jquery kullanarak yönetici olarak giriş yapan kişinin kulla
 ![Screenshot](https://github.com/ahmetkar/Jquery-Ve-Php-Ile-Form-Generator/blob/main/chrome_KmmP2QGBTy.png)
 
 
-## Form Listeleme Ekran Görüntüleri
-
-![Screenshot](https://github.com/ahmetkar/Php-Form-Generator/blob/main/img/chrome_T3MYKprJNy.png)
-
-![Screenshot](https://github.com/ahmetkar/Php-Form-Generator/blob/main/img/chrome_iFDjKZ3eSr.png)
-
-## Bildirimler Ekran Görüntüleri
-
-![Screenshot](https://github.com/ahmetkar/Php-Form-Generator/blob/main/img/chrome_wQ4kc5RRch.png)
-
-![Screenshot](https://github.com/ahmetkar/Php-Form-Generator/blob/main/img/chrome_yLZ6Uu4bZo.png)
-
-
 ## Öğrenci Form Gönderme Ekran Görüntüleri
 
 ![Screenshot](https://github.com/ahmetkar/Php-Form-Generator/blob/main/img/chrome_4NjejdIS3v.png)
@@ -61,6 +48,23 @@ Bu projede php ve jquery kullanarak yönetici olarak giriş yapan kişinin kulla
 
 ![Screenshot](https://github.com/ahmetkar/Php-Form-Generator/blob/main/img/chrome_VIrXhhrkW5.png)
 ![Screenshot](https://github.com/ahmetkar/Php-Form-Generator/blob/main/img/chrome_2n5o5RtwLU.png)
+
+
+
+
+
+
+## Form Listeleme Ekran Görüntüleri
+
+![Screenshot](https://github.com/ahmetkar/Php-Form-Generator/blob/main/img/chrome_T3MYKprJNy.png)
+
+![Screenshot](https://github.com/ahmetkar/Php-Form-Generator/blob/main/img/chrome_iFDjKZ3eSr.png)
+
+## Bildirimler Ekran Görüntüleri
+
+![Screenshot](https://github.com/ahmetkar/Php-Form-Generator/blob/main/img/chrome_wQ4kc5RRch.png)
+
+![Screenshot](https://github.com/ahmetkar/Php-Form-Generator/blob/main/img/chrome_yLZ6Uu4bZo.png)
 
 
 
