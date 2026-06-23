@@ -1,7 +1,8 @@
 
 # JQUERY VE PHP İLE FORM GENERATOR
 
-Bu projede php ve jquery kullanarak yönetici olarak giriş yapan kişinin kullanıcı için formlar generate etmesi ve veritabanına bilgilerini eklemesi bu bilgilere dayanarak kullanıcı ekranınında formun html halinin kullanıcı için oluşturulup yöneticiye formun bir örneğinin gönderilmesi sağlanmıştır.
+Bu projede jquery ve php ile formdan bilgileri alınarak veritabanına kaydedilip sonra veritabanındaki form bilgilerinin kullanılarak formun tekrar generate edilmesi sağlanmıştır.
+Bu site yöneticilerinin html formu kullanarak istediği kadar html formları oluşturup bunları normal kullanıcılara gönderebilmesini sağlar.
 
 - Yönetici olarak berirli alanları içeren formlar genarete etme
 - Kullanıcının bu formlardan doldurup yöneticiye gönderebilmesi
